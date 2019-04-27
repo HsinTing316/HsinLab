@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hsin Lab</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Hsin Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 18:17:56 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo</title>
+      <link>/categories/hugo/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>/categories/theme/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>/categories/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flat</title>
+      <link>/categories/flat/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:52 -0700</pubDate>
+      
+      <guid>/categories/flat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
